@@ -1,0 +1,12 @@
+export const SET_FULL_SCREEN = "SET_FULL_SCREEN";
+export const SET_MINI_PLAYER = "SET_MINI_PLAYER";
+export const SET_IS_PLAYING = "SET_IS_PLAYING";
+export const SET_MODE_TYPE = "SET_MODE_TYPE";
+export const SET_SONGS_DETAIL = "SET_SONGS_DETAIL";
+export const SET_SONGS_LYRIC = "SET_SONGS_LYRIC";
+export const SET_CURRENT_INDEX = "SET_CURRENT_INDEX";
+export const SET_CUR_TIME = "SET_CUR_TIME";
+export const SET_FAV_LIST = "SET_FAV_LIST";
+export const GET_FAV_LIST = "GET_FAV_LIST";
+export const SET_HISTORY_SONG = "SET_HISTORY_SONG";
+export const GET_HISTORY_LIST = "GET_HISTORY_LIST";
